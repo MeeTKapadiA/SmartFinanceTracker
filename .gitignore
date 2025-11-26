@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.pytest_cache/
+finance.db
+
+# Node/Frontend
+node_modules/
+.next/
+out/
+build/
+dist/
+.DS_Store
+*.log
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# Google Credentials
+token.json
+client_secret.json

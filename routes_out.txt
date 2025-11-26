@@ -1,0 +1,12 @@
+Registered Routes:
+/api/v1/openapi.json {'GET', 'HEAD'}
+/docs {'GET', 'HEAD'}
+/docs/oauth2-redirect {'GET', 'HEAD'}
+/redoc {'GET', 'HEAD'}
+/health {'GET'}
+/api/v1/login/access-token {'POST'}
+/api/v1/users/ {'POST'}
+/api/v1/users/me {'GET'}
+/api/v1/transactions/ {'GET'}
+/api/v1/transactions/ {'POST'}
+/api/v1/transactions/{id} {'DELETE'}
